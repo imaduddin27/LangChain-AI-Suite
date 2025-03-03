@@ -9,7 +9,7 @@ The goal of this project is to showcase how **LLMs (Large Language Models)** can
 ---
 
 ## Project Structure
-
+```commandline
 LANGCHAIN
 │── 1_chat_models/
 │   ├── 1_chat_models_starter.py
@@ -40,7 +40,7 @@ LANGCHAIN
 │── .gitignore
 │── README.md
 │── requirements.txt
-
+```
 ---
 
 ## **1. Chat Models**
@@ -159,17 +159,24 @@ Agents enable **AI to make decisions** by **analyzing queries**, using **tools**
 
 ### **Dependencies**
 To install all required dependencies, run:
+```commandline
 pip install -r requirements.txt
+```
 
 ### **Environment Variables**
 Store API keys and configurations in a `.env` file.
 
 ### **Running the Project**
 1. Clone the repository:
+```commandline
 git clone https://github.com/imaduddin27/Langchain
+```
+
 
 2. Run a specific module:
+```commandline
 python 1_chat_models/1_chat_models_starter.py
+```
 
 ## Final Thoughts  
 
