@@ -169,7 +169,7 @@ Store API keys and configurations in a `.env` file.
 ### **Running the Project**
 1. Clone the repository:
 ```commandline
-git clone https://github.com/imaduddin27/Langchain
+git clone https://github.com/imaduddin27/Langchain-AI-Suite
 ```
 
 
